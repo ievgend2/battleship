@@ -99,6 +99,20 @@ label #name_player2 {
   font-family: 'Montserrat';
   
   }
+
 .board{
   margin-top: 100px;
+}
+
+/* #turn_player{
+  font-size: 1.5rem;
+  color: black;
+} */
+
+
+.dark{
+  font-size: 1.5rem;
+  color: orange;
+  background-color: rgba(28, 28, 29, 0.8);
+  height: 120px;
 }
