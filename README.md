@@ -1,6 +1,4 @@
-# Web Basics 2 Week 5
-Follow the directions in the  [pdf](https://github.com/Code-the-Dream-School/web-basics-2-week-5/blob/master/BattleshipDOM.pdf) file or in your index.js file to do the assignment.
-
+# Battleship 
 
 Do you remember the game Battleship we created before? well .... it is time to make it with the DOM!!
 
