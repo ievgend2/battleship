@@ -3,10 +3,6 @@ margin: 0;
 padding: 0;
 }
 
-/* Web Fonts --------------------------------*/
-@font-face{
-  
-}
 
 
 body {
@@ -19,16 +15,12 @@ body {
   background-size: cover;
 }
 
-
-
-
 h1{
   margin: 4%;
   font-size: 3em;
   text-align: center;
   color: rgb(227, 234, 243);
   box-shadow: 5px, 5px, 10px 0 ;
-
 }
 
 ul{
@@ -43,7 +35,6 @@ li{
 }
 
 button{
-  
   color:orange;
   background-color: darkblue;
   border: solid;
@@ -90,7 +81,6 @@ font-weight: bold;
 font-size: 30px;
 font-style: initial;
 color: orange;
-
 }
 
 label #name_player2 {
@@ -98,17 +88,11 @@ label #name_player2 {
   font-size: 30px;
   font-family: 'Montserrat';
   
-  }
+}
 
 .board{
   margin-top: 100px;
 }
-
-/* #turn_player{
-  font-size: 1.5rem;
-  color: black;
-} */
-
 
 .dark{
   font-size: 1.5rem;
